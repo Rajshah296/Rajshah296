@@ -117,8 +117,13 @@ End-to-end chat analytics dashboard
 
 ## 📊 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajshah296&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshah296&layout=compact&theme=tokyonight)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajshah296&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshah296&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rajshah296)
