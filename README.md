@@ -41,17 +41,9 @@
 
 ## 🧑‍💻Programming Platforms Profile:
 
-<a href="https://www.hackerrank.com/profile/raj367670" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-</a>
-
-<a href="https://leetcode.com/u/DataDevTheLegend/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange" alt="LeetCode">
-</a>
-
-<a href="https://www.kaggle.com/analyticgentleman" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/raj367670)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)](https://leetcode.com/u/DataDevTheLegend/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/analyticgentleman)
 
 ## 📌 Featured Projects
 
