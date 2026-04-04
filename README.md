@@ -1,11 +1,6 @@
-# Hi, I'm Raj Shah 👋
-
-🎓 Graduate with a Bachelor of Engineering in Computer Science <br>
-📊 Data Science | Machine Learning | Data Engineering <br>
-💡 Interested in ML Systems & Data Pipelines <br>
-📍 India  
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Raj+Shah;Data+Scientist;Machine+Learning+Engineer;Building+ML+Pipelines;Kaggle+Competitor;Aspiring+Data+Engineer" />
+</p>
 
 # 🛠️ Tech Stack
 
@@ -13,7 +8,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br>
+
 ---
+
 ## 🤖 ML Libraries
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
