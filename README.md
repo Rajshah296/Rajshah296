@@ -112,11 +112,3 @@ End-to-end chat analytics dashboard
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshah2004/) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/raj_shah_3676/) <br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TaZqFwtA)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisarg155&show_icons=true&locale=en&layout=compact"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisarg155&show_icons=true&locale=en"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisarg155&"/></p>
-
-![](./profile-3d-contrib/profile-night-view.svg)
