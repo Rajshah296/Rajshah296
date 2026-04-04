@@ -82,6 +82,6 @@ End-to-end chat analytics dashboard
 
 ## 📫 Connect With Me
 
-Email: raj367670@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rajshah2004/) 
+Email: raj367670@gmail.com <br>
+[LinkedIn](https://www.linkedin.com/in/rajshah2004/) <br>
 [Instagram](https://www.instagram.com/raj_shah_3676/)
