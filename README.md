@@ -120,8 +120,8 @@ End-to-end chat analytics dashboard
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajshah296&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshah296&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajshah296&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshah296&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rajshah296)
