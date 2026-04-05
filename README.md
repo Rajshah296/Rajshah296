@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there,+I+am+Raj+Shah;Data+Scientist;Machine+Learning+Engineer;Building+ML+Pipelines;Kaggle+Competitor;Aspiring+Data+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,25:6A0DAD,50:8A2BE2,75:4169E1,100:1E90FF&height=220&section=header&text=Hi,%20I'm%20Raj%20Shah%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Building+ML+Pipelines;Kaggle+Competitor;Aspiring+Data+Engineer" />
 </p>
 
 # 🛠️ Tech Stack
@@ -117,11 +121,40 @@ End-to-end chat analytics dashboard
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajshah296&show_icons=true&theme=gruvbox" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshah296&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
+<!-- GitHub Stats Grid - Better Alignment -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajshah296&theme=gruvbox" alt="Stats" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajshah296&theme=gruvbox" alt="Repos per Language" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajshah296&theme=gruvbox" alt="Most Commit Language" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajshah296&theme=gruvbox&utcOffset=8" alt="Productive Time" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rajshah296)
+<br/>
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshah296&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<!-- Profile Details Card - Full Width -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajshah296&theme=gruvbox" alt="Profile Details" width="100%" />
+</div>
+
