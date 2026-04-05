@@ -128,18 +128,18 @@ End-to-end chat analytics dashboard
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajshah296&theme=gruvbox" alt="Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajshah296&theme=gruvbox&cache_seconds=86400" alt="Stats" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajshah296&theme=gruvbox" alt="Repos per Language" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajshah296&theme=gruvbox&cache_seconds=86400" alt="Repos per Language" width="100%" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajshah296&theme=gruvbox" alt="Most Commit Language" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajshah296&theme=gruvbox&cache_seconds=86400" alt="Most Commit Language" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajshah296&theme=gruvbox&utcOffset=8" alt="Productive Time" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajshah296&theme=gruvbox&utcOffset=8&cache_seconds=86400" alt="Productive Time" width="100%" />
       </td>
     </tr>
   </table>
