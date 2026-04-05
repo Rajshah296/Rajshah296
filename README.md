@@ -6,6 +6,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Building+ML+Pipelines;Kaggle+Competitor;Aspiring+Data+Engineer" />
 </p>
 
+<p align="center">
+🎯 Data Scientist focused on Tabular Machine Learning <br>
+🏆 Kaggle Competition Projects & End-to-End ML Pipelines <br>
+⚡ Strong in SQL, Spark, and Data Processing
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+• Building solutions for Kaggle competitions <br>
+• Learning AWS cloud and other advanced ETL pipeline tools <br>
+• Building scalable ML training pipelines <br>
+• Preparing for Data Scientist roles  <br>
+
+---
+
+## 🧠 ML Specialization
+
+• Tabular Machine Learning  
+• Feature Aggregation & Time Series Features  
+• Ensemble Learning  
+• Optuna Hyperparameter Tuning  
+• Cross-Validation Strategies
+• Custom Evaluation Metrics
+
+---
+
+
 # 🛠️ Tech Stack
 
 ## Languages
