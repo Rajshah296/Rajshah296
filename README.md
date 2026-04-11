@@ -84,17 +84,22 @@
 
 ### 🏦 AMEX Default Prediction — Kaggle Competition
 
-Built a high-performance machine learning pipeline to predict customer default risk using the American Express dataset. The project includes advanced feature aggregation, denoising techniques, extensive EDA, and a carefully tuned LightGBM model optimized with Optuna using the competition's custom AMEX metric.
+🚀 Built a high-performance **credit default prediction** model using **LightGBM** with **Optuna hyperparameter tuning** and **Stratified K-Fold cross-validation**  
 
-Key highlights:
+🧠 Engineered **2600+ temporal behavioral features** including **rank features**, **last-k statistics**, **trend signals**, and **customer-level aggregations**  
 
-* 📊 Time-series feature aggregation (mean, std, last, trend-based features)
-* 🧹 Denoised dataset based on Raddar’s preprocessing approach
-* 🔍 Target-aware EDA and correlation-based feature analysis
-* ⚡ LightGBM model with Stratified K-Fold cross-validation
-* 🎯 Hyperparameter tuning using Optuna
-* 📈 Custom AMEX metric implementation for evaluation
-* 🚀 Efficient training pipeline designed for Kaggle runtime limits
+⚡ Switched from **Pandas → Polars** for feature generation, significantly reducing **memory usage** and improving **processing speed** on large sequential data  
+
+📏 Implemented custom **AMEX evaluation metric**, **early stopping**, and **fold-wise ensembling** for robust validation  
+
+🏆 Achieved **0.803 Private Leaderboard score** using a **single LightGBM model**  
+
+---
+
+### 🛠️ Tech Stack
+`LightGBM` • `Optuna` • `Polars` • `NumPy` • `Scikit-learn` • `Pandas` • `Matplotlib`
+
+---
 
 🔗 Repo: [link](https://github.com/Rajshah296/AMEX-Default-Prediction.git)
 
